@@ -2,9 +2,8 @@ Password Program
 
 Use the passwords.txt file containing names and passwords.
 
-Write a Data Class containing the variables of password and name.
-
-Write a PasswordChecker Service Class which asks the User to enter their name and Password.
+Write an InputChecker Service Class which asks the User to enter their name and Password and checks if they are valid.
+If the input is invalid, ask the user to try again.
 
 IF the User enters the wrong name/password (can be either or both), allow the User to re-try only ONCE.
 Semicolons are not allowed to be used as characters in the name or password.
